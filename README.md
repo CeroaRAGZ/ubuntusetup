@@ -1,2 +1,2 @@
 # ubuntusetup
-DONT USE! (unless you have exactly my needs)
+DONT USE! (unless you have my exact needs)
